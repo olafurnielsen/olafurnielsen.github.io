@@ -13,6 +13,7 @@
 
 html {
 	font-size: 18px;
+  height: 100%;
 }
 
 #theme-toggle {
@@ -35,11 +36,6 @@ html {
 	transform: scale(0.8);
 }
 
-html, body {
-  height: 100%;
-  min-height: 100%;
-}
-
 html {
 	--text-font: 'Roboto', sans-serif;
   --heading-font: 'Roboto Slab', serif;
@@ -55,10 +51,12 @@ html {
 	--code-bg-color: rgb(245, 245, 245);
 
   background-image: linear-gradient(to bottom, #fff1eb 0%, #ffffff 75%, #ffffff 100%);
+  background-repeat: no-repeat;
 }
 
 body {
-	font-family: var(--text-font), sans-serif;
+  min-height: 100%;
+  font-family: var(--text-font), sans-serif;
 	text-rendering: optimizeLegibility;
 	line-height: 1.75;
 	color: var(--main-text-color);
