@@ -5,17 +5,6 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
- <!-- Global site tag (gtag.js) - Google Analytics -->
- <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EP7KLCYVP"></script>
- <script>
-   window.dataLayer = window.dataLayer || [];
-   function gtag() { dataLayer.push(arguments); }
-   gtag('js', new Date());
-
-   gtag('config', 'G-3EP7KLCYVP');
- </script>
-
-
 
 
 <body>
@@ -61,19 +50,12 @@ layout: compress
 
 </body>
 
-<footer class="social-footer">
-  <div class="social-footer-icons">
-    <a href="https://github.com/P0WEX" title="Github profile, nothing much there, yet" target="_blank"
-      rel="noopener noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>
-    <a href="{{site.url}}{{ site.baseurl }}/atom.xml" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
-        class="fa fa-rss" aria-hidden="true"></i></a>
-    <a href="https://github.com/P0WEX/Gesko" title="Browse the code" target="_blank" rel="noopener noreferrer"><i
-        class="fa fa-code" aria-hidden="true"></i></a>
-  </div>
+<footer>
+
 </footer>
 
 
-{% if page.url == '/' %}
+<!-- {% if page.url == '/' %}
   <script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
@@ -86,7 +68,7 @@ layout: compress
       fuzzy: true,
     })
   </script>
-  {% endif %}
+  {% endif %} -->
 
 
 </html>

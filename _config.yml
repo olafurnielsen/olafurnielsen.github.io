@@ -1,34 +1,29 @@
-site: Gesko
-title: Gesko
-greetings: Hi 👋
+site: olafur.org
+title: Ólafur Nielsen - Developer by ♥ Catalyst by profession
+greetings: Hello! 👋🏻
 description: >-
-  just a minimalist, personal blog
+  <strong>I'm Olafur (Oli) Nielsen</strong><br />
+  Developer by ❤️‍🔥<br />
+  🚀 <abbr data-title="A person that causes or speeds an important change.">Catalyst</abbr> by profession, usually found at the intersection of emerging technologies and business. 
+  
 lang: en-US
-timezone:  Europe/Rome
+timezone:  Atlantic/Reykjavik
 repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: olafurnielsen
   bio: just a minimalist, personal blog
   userpicture: 
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
-
-# Font Settings
-googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
+  username: olafurnielsen # general username
+  github: olafurnielsen # github username
+  twitter: olafurnielsen # twitter username
+  email: on@olafur.org # email adress
 
 # URL settings
-url: "https://powex.ml" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://olafurnielsen.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
-
-# local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
-
 
 markdown: kramdown
 kramdown:
