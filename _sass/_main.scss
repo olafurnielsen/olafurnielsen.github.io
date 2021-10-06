@@ -98,6 +98,7 @@ a {
   }
 
   font-size: 1.1rem;
+  font-weight: 300;
 
   img {
     @include lt-md {
@@ -150,8 +151,8 @@ footer {
   animation-fill-mode: forwards;
   opacity: 0;
   
-  font-size: .75rem;
   margin-bottom: 2rem;
+  font-size: .75rem;
   text-align: center;
   
   &, a {
