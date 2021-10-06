@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://powex.ml/sitemap.xml
+Sitemap: https://olafurnielsen.github.io/sitemap.xml
