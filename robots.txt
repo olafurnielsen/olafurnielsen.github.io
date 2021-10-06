@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://olafurnielsen.github.io/sitemap.xml
+Sitemap: https://olafur.org/sitemap.xml

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ólafur Nielsen - Developer by ♥ Catalyst by profession</title>
- <link href="https://olafurnielsen.github.io/atom.xml" rel="self"/>
- <link href="https://olafurnielsen.github.io/"/>
- <updated>2021-10-06T14:40:07+00:00</updated>
- <id>https://olafurnielsen.github.io</id>
+ <link href="https://olafur.org/atom.xml" rel="self"/>
+ <link href="https://olafur.org/"/>
+ <updated>2021-10-06T16:53:13+00:00</updated>
+ <id>https://olafur.org</id>
  <author>
    <name>olafurnielsen</name>
    <email>on@olafur.org</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Jekyll demo blog post</title>
-   <link href="https://olafurnielsen.github.io/2020/10/06/jekyll-demo-blog-post"/>
+   <link href="https://olafur.org/2020/10/06/jekyll-demo-blog-post"/>
    <updated>2020-10-06T00:00:00+00:00</updated>
-   <id>https://olafurnielsen.github.io/2020/10/06/jekyll-demo-blog-post</id>
+   <id>https://olafur.org/2020/10/06/jekyll-demo-blog-post</id>
    <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
