@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Difference between font formats
+title: Jekyll demo blog post
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
 tags: typography
