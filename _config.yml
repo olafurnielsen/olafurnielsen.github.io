@@ -8,7 +8,7 @@ description: >-
   
 lang: en-US
 timezone:  Atlantic/Reykjavik
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/olafurnielsen/olafurnielsen.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
@@ -21,7 +21,7 @@ author:
   email: on@olafur.org # email adress
 
 # URL settings
-url: "https://olafurnielsen.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://olafur.org" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
