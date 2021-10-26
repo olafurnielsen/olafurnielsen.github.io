@@ -149,7 +149,7 @@ a {
 
 footer {
   animation-name: fadeInUp;
-  animation-delay: 0.5s;
+  animation-delay: 2s;
   animation-duration: 2s;
   animation-fill-mode: forwards;
   opacity: 0;
@@ -255,7 +255,8 @@ h2,
 h3,
 h4,
 h5 {
-	margin-bottom: 1.5rem;
+	margin-top: 1.5rem;
+  margin-bottom: 1rem;
 	font-size: 2rem;
 }
 
