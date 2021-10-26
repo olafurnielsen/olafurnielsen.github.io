@@ -4,7 +4,7 @@
  <title>Ólafur Nielsen ~ Developer by ♥ Catalyst by profession</title>
  <link href="https://olafur.org/atom.xml" rel="self"/>
  <link href="https://olafur.org/"/>
- <updated>2021-10-26T21:36:08+00:00</updated>
+ <updated>2021-10-26T21:41:41+00:00</updated>
  <id>https://olafur.org</id>
  <author>
    <name>olafurnielsen</name>
@@ -25,8 +25,8 @@
 
 &lt;p&gt;Tími sem við vildum heldur verja í þróun nýjunga fuðrar upp í handvirkum síendurteknum rekstrarviðvikum og slökkvistarfi.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Roskin kerfi (e. legacy systems):&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Úrelt kerfi komin yfir miðjan aldur.
+&lt;p&gt;&lt;strong&gt;Roskið kerfi (e. legacy systems):&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Úrelt kerfi komið yfir miðjan aldur, sem er enn í notkun.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h2 id=&quot;spírall-ábyrgðarleysis-og-sakbendinga&quot;&gt;Spírall ábyrgðarleysis og sakbendinga&lt;/h2&gt;
 
@@ -56,6 +56,8 @@
 &lt;p&gt;„Það er búið að lofa framkvæmdastjórninni þessu og við erum í vondum málum ef við stöndum ekki við okkar hlut“.&lt;/p&gt;
 
 &lt;p&gt;Stanslaus pressa þar sem við keyrum hvert verkefnið á fætur öðru með föstum tímamörkum og umfangi leiðir óhjákvæmilega til þess að gæðum er fórnað. Afsláttur af gæðum leiðir til hækkandi tækniskuldar. Hækkandi tækniskuld leiðir til hægari þróunar. Hægari þróun leiðir til frústreraðra stjórnenda sem telja bestu lausnina vera að að setja enn meiri pressu á IT um þróun nýjunga. Vítahringurinn endurtekur sig.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.eu-west-1.amazonaws.com/olafur.org/four-variables.png&quot; alt=&quot;Breyturnar fjórar&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Í verkefnum sem þessum er stundum talað um &lt;a href=&quot;https://jchyip.medium.com/four-variables-cost-time-quality-scope-f29b4de8bfdf&quot;&gt;breyturnar fjórar&lt;/a&gt;: Kostnað, tímamörk, gæði og umfang. Veldu þrjú atriði en fjórða þarf að vera sveigjanlegt. Að henda meiri pening (fólki) í verkið virkar sjaldan, að færa sífellt tímamörkin er ekki alltaf í boði og gefa afslátt af gæðum er eins og að pissa í skóinn sinn. Skynsamlegast er að umfangið sé sveigjanlegt. Við treystum teyminu til að setja eitthvað gagnlegt í loftið innan ákveðinna tímamarka.&lt;/p&gt;
 
