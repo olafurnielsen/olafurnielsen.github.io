@@ -4,7 +4,7 @@
  <title>Ólafur Nielsen ~ Developer by ♥ Catalyst by profession</title>
  <link href="https://olafur.org/atom.xml" rel="self"/>
  <link href="https://olafur.org/"/>
- <updated>2021-10-26T20:02:16+00:00</updated>
+ <updated>2021-10-26T21:36:08+00:00</updated>
  <id>https://olafur.org</id>
  <author>
    <name>olafurnielsen</name>
@@ -22,6 +22,8 @@
 &lt;p&gt;Daginn eftir að ný tækni er tekin í notkun byrjar tæknileg skuld að telja. Tæknilega skuldin er vaxtaberandi skuld og getur líkt og peningaskuld sligað rekstur fyrirtækja.&lt;/p&gt;
 
 &lt;p&gt;Fyrirtæki sem greiða ekki reglulega inn á tækniskuld sína geta lent í aðstæðum þar sem þau jafnvel ná ekki einu sinni að borga vextina og vandamálið stækkar með hverjum deginum. Slíkar aðstæður sliga alla framþróun og heldur fyrirtækjum í gíslingu.&lt;/p&gt;
+
+&lt;p&gt;Tími sem við vildum heldur verja í þróun nýjunga fuðrar upp í handvirkum síendurteknum rekstrarviðvikum og slökkvistarfi.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Roskin kerfi (e. legacy systems):&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Úrelt kerfi komin yfir miðjan aldur.
@@ -44,11 +46,20 @@
   &lt;li&gt;“Go slow to go faster”. Fjárfesting í umbótum með vinnu fárra getur skilað sér margfalt í hraðari vinnu margra.&lt;/li&gt;
   &lt;li&gt;Kúplum roskna kerfið í sundur og færum einn feril í einu yfir í nýrra umhverfi. Beitum &lt;a href=&quot;https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt&quot;&gt;kyrkingaraðferðinni&lt;/a&gt; (e. strangler pattern) til að minnka áhættu við umbreytinguna.&lt;/li&gt;
   &lt;li&gt;Gerum starfsfólki kleift að verja tíma í lærdóm og hvetjum til tilrauna.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Það er ekki raunhæft að ætla að endurskrifa allt. Setjum fókusinn á að frelsa gögnin og gera okkur auðvelt fyrir að vinna með þau. Komum gögnum inn í millilag og uppfærum svo hvaða gagnalindir millilagið sækir í eftir því sem grunnkerfin breytast.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Markmiðið er að gera okkur kleift að fanga tækifæri og skila virði til viðskiptavina hraðar.&lt;/li&gt;
+  &lt;li&gt;Það er ekki raunhæft að ætla að endurskrifa allt. Setjum fókusinn á að frelsa gögnin og gera okkur auðvelt fyrir að vinna með þau. Komum gögnum inn í millilag og uppfærum svo hvaða gagnalindir millilagið sækir í eftir því sem grunnkerfin breytast.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;vítahringur-ósjálfbærrar-pressu-á-nýjungar&quot;&gt;Vítahringur ósjálfbærrar pressu á nýjungar&lt;/h2&gt;
+
+&lt;p&gt;Ástæður þess að við lendum á þessum stað geta verið skilningsleysi stjórnenda, röng þekkingarsamsetning, skortur á þróunarkúltúr eða sinnuleysi tæknistjórnenda. En ég hef líka séð mynstur ósjálfbærrar pressu á þróun nýjunga. Það er fídus með föstu umfangi sem verður að fara í loftið og tímamörkin eru óhagganleg.&lt;/p&gt;
+
+&lt;p&gt;„Það er búið að lofa framkvæmdastjórninni þessu og við erum í vondum málum ef við stöndum ekki við okkar hlut“.&lt;/p&gt;
+
+&lt;p&gt;Stanslaus pressa þar sem við keyrum hvert verkefnið á fætur öðru með föstum tímamörkum og umfangi leiðir óhjákvæmilega til þess að gæðum er fórnað. Afsláttur af gæðum leiðir til hækkandi tækniskuldar. Hækkandi tækniskuld leiðir til hægari þróunar. Hægari þróun leiðir til frústreraðra stjórnenda sem telja bestu lausnina vera að að setja enn meiri pressu á IT um þróun nýjunga. Vítahringurinn endurtekur sig.&lt;/p&gt;
+
+&lt;p&gt;Í verkefnum sem þessum er stundum talað um &lt;a href=&quot;https://jchyip.medium.com/four-variables-cost-time-quality-scope-f29b4de8bfdf&quot;&gt;breyturnar fjórar&lt;/a&gt;: Kostnað, tímamörk, gæði og umfang. Veldu þrjú atriði en fjórða þarf að vera sveigjanlegt. Að henda meiri pening (fólki) í verkið virkar sjaldan, að færa sífellt tímamörkin er ekki alltaf í boði og gefa afslátt af gæðum er eins og að pissa í skóinn sinn. Skynsamlegast er að umfangið sé sveigjanlegt. Við treystum teyminu til að setja eitthvað gagnlegt í loftið innan ákveðinna tímamarka.&lt;/p&gt;
+
+&lt;p&gt;Það þarf reynslumikla forritara og tæknistjórnendur með skýra sýn og bein í nefinu til að rjúfa þennan vítahring.&lt;/p&gt;
 
 &lt;h2 id=&quot;devops-er-góður-bisness&quot;&gt;DevOps er góður bisness&lt;/h2&gt;
 
