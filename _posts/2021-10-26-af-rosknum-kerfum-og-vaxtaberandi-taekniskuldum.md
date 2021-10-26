@@ -16,6 +16,8 @@ Daginn eftir að ný tækni er tekin í notkun byrjar tæknileg skuld að telja.
 
 Fyrirtæki sem greiða ekki reglulega inn á tækniskuld sína geta lent í aðstæðum þar sem þau jafnvel ná ekki einu sinni að borga vextina og vandamálið stækkar með hverjum deginum. Slíkar aðstæður sliga alla framþróun og heldur fyrirtækjum í gíslingu.
 
+Tími sem við vildum heldur verja í þróun nýjunga fuðrar upp í handvirkum síendurteknum rekstrarviðvikum og slökkvistarfi.
+
 **Roskin kerfi (e. legacy systems):**
 ```text
 Úrelt kerfi komin yfir miðjan aldur.
@@ -28,7 +30,6 @@ Við endum svo í kúltúrlegum spíral þar sem forverum er bölvað fyrir alla
 
 Svo endar með því að einhver stjórnandinn rífur upp tékkaheftið og setur í gang sársaukafulla big-bang innleiðingu á nýju kerfi með loforði um að öll vandamálin heyri sögunni til. Verkefnin lenda svo í tímaþröng og menn enda á að moka vandamálunum með sér inn í nýja kerfið og sagan endurtekur sig.
 
-
 ## Ný nálgun í stjórnun
 
 Lausnin við að tækla hin rosknu kerfi er að hætta big-bang nálgun og tækla vandamálið í anda stjórnunar- og tækniaðferða sem kenndar eru við DevOps hugmyndafræðina:
@@ -38,10 +39,19 @@ Lausnin við að tækla hin rosknu kerfi er að hætta big-bang nálgun og tækl
 - "Go slow to go faster". Fjárfesting í umbótum með vinnu fárra getur skilað sér margfalt í hraðari vinnu margra.
 - Kúplum roskna kerfið í sundur og færum einn feril í einu yfir í nýrra umhverfi. Beitum [kyrkingaraðferðinni](https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt) (e. strangler pattern) til að minnka áhættu við umbreytinguna.
 - Gerum starfsfólki kleift að verja tíma í lærdóm og hvetjum til tilrauna.
-- Það er ekki raunhæft að ætla að endurskrifa allt. Setjum fókusinn á að frelsa gögnin og gera okkur auðvelt fyrir að vinna með þau. Komum gögnum inn í millilag og uppfærum svo hvaða gagnalindir millilagið sækir í eftir því sem grunnkerfin breytast. 
+- Það er ekki raunhæft að ætla að endurskrifa allt. Setjum fókusinn á að frelsa gögnin og gera okkur auðvelt fyrir að vinna með þau. Komum gögnum inn í millilag og uppfærum svo hvaða gagnalindir millilagið sækir í eftir því sem grunnkerfin breytast.
 
-- Markmiðið er að gera okkur kleift að fanga tækifæri og skila virði til viðskiptavina hraðar.
+## Vítahringur ósjálfbærrar pressu á nýjungar
 
+Ástæður þess að við lendum á þessum stað geta verið skilningsleysi stjórnenda, röng þekkingarsamsetning, skortur á þróunarkúltúr eða sinnuleysi tæknistjórnenda. En ég hef líka séð mynstur ósjálfbærrar pressu á þróun nýjunga. Það er fídus með föstu umfangi sem verður að fara í loftið og tímamörkin eru óhagganleg. 
+
+„Það er búið að lofa framkvæmdastjórninni þessu og við erum í vondum málum ef við stöndum ekki við okkar hlut“.
+
+Stanslaus pressa þar sem við keyrum hvert verkefnið á fætur öðru með föstum tímamörkum og umfangi leiðir óhjákvæmilega til þess að gæðum er fórnað. Afsláttur af gæðum leiðir til hækkandi tækniskuldar. Hækkandi tækniskuld leiðir til hægari þróunar. Hægari þróun leiðir til frústreraðra stjórnenda sem telja bestu lausnina vera að að setja enn meiri pressu á IT um þróun nýjunga. Vítahringurinn endurtekur sig.
+
+Í verkefnum sem þessum er stundum talað um [breyturnar fjórar](https://jchyip.medium.com/four-variables-cost-time-quality-scope-f29b4de8bfdf): Kostnað, tímamörk, gæði og umfang. Veldu þrjú atriði en fjórða þarf að vera sveigjanlegt. Að henda meiri pening (fólki) í verkið virkar sjaldan, að færa sífellt tímamörkin er ekki alltaf í boði og gefa afslátt af gæðum er eins og að pissa í skóinn sinn. Skynsamlegast er að umfangið sé sveigjanlegt. Við treystum teyminu til að setja eitthvað gagnlegt í loftið innan ákveðinna tímamarka.
+
+Það þarf reynslumikla forritara og tæknistjórnendur með skýra sýn og bein í nefinu til að rjúfa þennan vítahring.
 
 ## DevOps er góður bisness
 
