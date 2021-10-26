@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://olafur.org/2020/10/06/jekyll-demo-blog-post</loc>
-<lastmod>2020-10-06T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://olafur.org/tag/seo/</loc>
-</url>
-<url>
-<loc>https://olafur.org/tag/security/</loc>
+<loc>https://olafur.org/2021/10/26/af-rosknum-kerfum-og-vaxtaberandi-taekniskuldum</loc>
+<lastmod>2021-10-26T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://olafur.org/tag/netlify/</loc>
 </url>
 <url>
+<loc>https://olafur.org/tag/security/</loc>
+</url>
+<url>
 <loc>https://olafur.org/tag/typography/</loc>
 </url>
 <url>
-<loc>https://olafur.org/tag/css/</loc>
+<loc>https://olafur.org/tag/coding/</loc>
 </url>
 <url>
 <loc>https://olafur.org/tag/wordpress/</loc>
@@ -26,9 +23,12 @@
 <loc>https://olafur.org/</loc>
 </url>
 <url>
-<loc>https://olafur.org/tag/coding/</loc>
+<loc>https://olafur.org/tag/css/</loc>
 </url>
 <url>
 <loc>https://olafur.org/tag/jekyll/</loc>
+</url>
+<url>
+<loc>https://olafur.org/tag/seo/</loc>
 </url>
 </urlset>

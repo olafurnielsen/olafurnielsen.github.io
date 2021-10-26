@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Ólafur Nielsen - Developer by ♥ Catalyst by profession</title>
+ <title>Ólafur Nielsen ~ Developer by ♥ Catalyst by profession</title>
  <link href="https://olafur.org/atom.xml" rel="self"/>
  <link href="https://olafur.org/"/>
- <updated>2021-10-06T16:53:13+00:00</updated>
+ <updated>2021-10-26T17:25:02+00:00</updated>
  <id>https://olafur.org</id>
  <author>
    <name>olafurnielsen</name>
@@ -13,42 +13,48 @@
 
  
  <entry>
-   <title>Jekyll demo blog post</title>
-   <link href="https://olafur.org/2020/10/06/jekyll-demo-blog-post"/>
-   <updated>2020-10-06T00:00:00+00:00</updated>
-   <id>https://olafur.org/2020/10/06/jekyll-demo-blog-post</id>
-   <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
+   <title>Af rosknum kerfum og vaxtaberandi tækniskuldum</title>
+   <link href="https://olafur.org/2021/10/26/af-rosknum-kerfum-og-vaxtaberandi-taekniskuldum"/>
+   <updated>2021-10-26T00:00:00+00:00</updated>
+   <id>https://olafur.org/2021/10/26/af-rosknum-kerfum-og-vaxtaberandi-taekniskuldum</id>
+   <content type="html">&lt;p&gt;Daginn eftir að ný tækni er tekin í notkun byrjar tæknileg skuld að telja. Tæknilega skuldin er vaxtaberandi skuld og getur líkt og peningaskuld sligað rekstur fyrirtækja.&lt;/p&gt;
 
-&lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
+&lt;p&gt;Fyrirtæki sem greiða ekki reglulega inn á tækniskuld sína geta lent í aðstæðum þar sem þau jafnvel ná ekki einu sinni að borga vextina og vandamálið stækkar með hverjum deginum. Slíkar aðstæður sliga alla framþróun og heldur fyrirtækjum í gíslingu.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3&quot;&gt;h3&lt;/h3&gt;
+&lt;h2 id=&quot;spírall-ábyrgðarleysis-og-sakbendinga&quot;&gt;Spírall ábyrgðarleysis og sakbendinga&lt;/h2&gt;
 
-&lt;h4 id=&quot;h4&quot;&gt;h4&lt;/h4&gt;
+&lt;p&gt;Algengt viðkvæði í þessu er að það sé svo stutt í að einu eða fleiri grunnkerfum verði skipt út að það taki því ekki að tækla vandamálið núna. Allt verði miklu betra þegar nýja kerfið fari í loftið. Svo líða vikur, mánuðir og ár en aldrei kemur dagurinn þar sem okkur hafði verið lofað að allt yrði breytt.&lt;/p&gt;
 
-&lt;h5 id=&quot;h5&quot;&gt;h5&lt;/h5&gt;
+&lt;p&gt;Við endum svo í kúltúrlegum spíral þar sem forverum er bölvað fyrir allar vondu ákvarðanirnar en enginn tekur ábyrgð og gerir eitthvað í vandamálinu.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Svo endar með því að einhver stjórnandinn rífur upp tékkaheftið og setur í gang sársaukafulla big-bang innleiðingu á nýju kerfi með loforði um að öll vandamálin heyri sögunni til. Verkefnin lenda svo í tímaþröng og menn enda á að moka vandamálunum með sér inn í nýja kerfið og sagan endurtekur sig.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. &lt;a href=&quot;//#&quot;&gt;Banh&lt;/a&gt; mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+&lt;h2 id=&quot;ný-nálgun-í-stjórnun&quot;&gt;Ný nálgun í stjórnun&lt;/h2&gt;
 
+&lt;p&gt;Lausnin er að hætta big-bang hugsun og innleiða stjórnunar- og tækniaðferðir sem eru kenndar við DevOps hugmyndafræðina:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;a&lt;/li&gt;
-  &lt;li&gt;b&lt;/li&gt;
-  &lt;li&gt;c&lt;/li&gt;
+  &lt;li&gt;Hefjumst handa strax við að gera tækniumhverfið aðeins betra í dag en það var í gær án þess að kollvarpa neinu.&lt;/li&gt;
+  &lt;li&gt;Það er ekki raunhæft að ætla að endurskrifa allt. Setjum fókusinn á að frelsa gögnin og gera okkur auðvelt fyrir að vinna með þau. Vinnum með rosknu kerfin í stað þess að bölva þeim og taka enga ábyrgð.&lt;/li&gt;
+  &lt;li&gt;Gerum starfsfólki kleift að verja tíma í lærdóm og hvetjum til tilrauna.&lt;/li&gt;
+  &lt;li&gt;Brjótum upp sílóin í kringum þróun (dev) og rekstur (ops) og setjum af stað fókuserað umbótateymi þróunar og reksturs sem hefur það eina markmið að bæta vinnuumhverfi allra hinna.&lt;/li&gt;
+  &lt;li&gt;Gerum það hluta af vinnunni að viðhalda gæðum og borga niður tækniskuld, t.d. 20% af tímanun. Tækniskuldin þarf að vera í föstum afborgunum.&lt;/li&gt;
+  &lt;li&gt;“Go slow to go faster”. Fjárfesting í umbótum með vinnu fárra getur skilað sér margfalt í hraðari vinnu margra.&lt;/li&gt;
+  &lt;li&gt;Markmiðið er að gera okkur kleift að fanga tækifæri og skila virði til viðskiptavina hraðar.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;devops-er-góður-bisness&quot;&gt;DevOps er góður bisness&lt;/h2&gt;
+
+&lt;p&gt;Í bókinni DevOps Handbook er fjallað um rannsókn sem gerð var á árangri fyrirtækja sem hafa tileinkað sér tækni- og vinnuaðferðir DevOps. Árangurinn er augljós:&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Furthermore, high performers were twice as likely to exceed profitability, market share, and productivity goals. And, for those organizations that provided a stock ticker symbol, we found that high performers had 50% higher market capitalization growth over three years. They also had higher employee job satisfaction, lower rates of employee burnout, and their employees were 2.2 times more likely to recommend their organization to friends as a great place to work.†† High performers also had better information security outcomes. By integrating security objectives into all stages of the development and operations processes, they spent 50% less time remediating security issues.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;VHS roof party waistcoat cold-pressed, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;snippet.CodeExample();&lt;/code&gt; master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kim, Gene; Humble, Jez; Debois, Patrick; Willis, John. &lt;a href=&quot;https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002&quot;&gt;The DevOps Handbook&lt;/a&gt; (pp. 37-38). IT Revolution Press. Kindle Edition.&lt;/em&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;args:&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello, World!&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Árangur með DevOps er í mínum huga samofinn við nýjan kúltúr og prinsip í stjórnun, tæknilegar aðferðir og skýjalausnir. Það er fyrst og fremst með nýtingu skýjalausna þar sem ofangreind þróun er að eiga sér stað. Stóru tæknifyrirtækin eru þar að gefa okkur aðgang að þeirri tækni sem gerði þeim sjálfum kleift að ná undraverðum árangri.&lt;/p&gt;
 
-&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+&lt;p&gt;Spurningin sem stjórnendur ættu að spyrja sig nú: Hef ég efni á að fara ekki í DevOps umbreytingu og skýjavæðingu? Að ákveða að  gera það ekki er ákvörðun um að skerða eigin samkeppnismöguleika.&lt;/p&gt;
 </content>
  </entry>
  
