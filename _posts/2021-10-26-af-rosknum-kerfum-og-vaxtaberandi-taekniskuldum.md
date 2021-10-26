@@ -18,9 +18,9 @@ Fyrirtæki sem greiða ekki reglulega inn á tækniskuld sína geta lent í aðs
 
 Tími sem við vildum heldur verja í þróun nýjunga fuðrar upp í handvirkum síendurteknum rekstrarviðvikum og slökkvistarfi.
 
-**Roskin kerfi (e. legacy systems):**
+**Roskið kerfi (e. legacy systems):**
 ```text
-Úrelt kerfi komin yfir miðjan aldur.
+Úrelt kerfi komið yfir miðjan aldur, sem er enn í notkun.
 ```
 ## Spírall ábyrgðarleysis og sakbendinga
 
@@ -48,6 +48,8 @@ Lausnin við að tækla hin rosknu kerfi er að hætta big-bang nálgun og tækl
 „Það er búið að lofa framkvæmdastjórninni þessu og við erum í vondum málum ef við stöndum ekki við okkar hlut“.
 
 Stanslaus pressa þar sem við keyrum hvert verkefnið á fætur öðru með föstum tímamörkum og umfangi leiðir óhjákvæmilega til þess að gæðum er fórnað. Afsláttur af gæðum leiðir til hækkandi tækniskuldar. Hækkandi tækniskuld leiðir til hægari þróunar. Hægari þróun leiðir til frústreraðra stjórnenda sem telja bestu lausnina vera að að setja enn meiri pressu á IT um þróun nýjunga. Vítahringurinn endurtekur sig.
+
+![Breyturnar fjórar](https://s3.eu-west-1.amazonaws.com/olafur.org/four-variables.png)
 
 Í verkefnum sem þessum er stundum talað um [breyturnar fjórar](https://jchyip.medium.com/four-variables-cost-time-quality-scope-f29b4de8bfdf): Kostnað, tímamörk, gæði og umfang. Veldu þrjú atriði en fjórða þarf að vera sveigjanlegt. Að henda meiri pening (fólki) í verkið virkar sjaldan, að færa sífellt tímamörkin er ekki alltaf í boði og gefa afslátt af gæðum er eins og að pissa í skóinn sinn. Skynsamlegast er að umfangið sé sveigjanlegt. Við treystum teyminu til að setja eitthvað gagnlegt í loftið innan ákveðinna tímamarka.
 
