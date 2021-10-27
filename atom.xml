@@ -4,7 +4,7 @@
  <title>Ólafur Nielsen ~ Developer by ♥ Catalyst by profession</title>
  <link href="https://olafur.org/atom.xml" rel="self"/>
  <link href="https://olafur.org/"/>
- <updated>2021-10-26T21:41:41+00:00</updated>
+ <updated>2021-10-27T09:34:36+00:00</updated>
  <id>https://olafur.org</id>
  <author>
    <name>olafurnielsen</name>
@@ -34,15 +34,19 @@
 
 &lt;p&gt;Við endum svo í kúltúrlegum spíral þar sem forverum er bölvað fyrir allar vondu ákvarðanirnar en enginn tekur ábyrgð og gerir eitthvað í vandamálinu.&lt;/p&gt;
 
-&lt;p&gt;Svo endar með því að einhver stjórnandinn rífur upp tékkaheftið og setur í gang sársaukafulla big-bang innleiðingu á nýju kerfi með loforði um að öll vandamálin heyri sögunni til. Verkefnin lenda svo í tímaþröng og menn enda á að moka vandamálunum með sér inn í nýja kerfið og sagan endurtekur sig.&lt;/p&gt;
+&lt;p&gt;Svo endar með því að einhver rífur upp tékkaheftið og setur í gang sársaukafulla stórahvells innleiðingu á nýju kerfi með loforði um að öll vandamálin heyri sögunni til. Verkefnin lenda svo í tímaþröng og við endum á að moka vandamálunum með okkur í nýja kerfið og sagan endurtekur sig.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stórahvells innleiðing (e. big-bang deployment):&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Að skipta kerfi út í heilu lagi í einu vetfangi og vona það besta.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;ný-nálgun-í-stjórnun&quot;&gt;Ný nálgun í stjórnun&lt;/h2&gt;
 
-&lt;p&gt;Lausnin við að tækla hin rosknu kerfi er að hætta big-bang nálgun og tækla vandamálið í anda stjórnunar- og tækniaðferða sem kenndar eru við DevOps hugmyndafræðina:&lt;/p&gt;
+&lt;p&gt;Lausnin við að tækla hin rosknu kerfi er tækla vandamálið í anda stjórnunar- og tækniaðferða sem kenndar eru við DevOps hugmyndafræðina:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Hefjumst handa strax við að gera tækniumhverfið aðeins betra í dag en það var í gær án þess að kollvarpa neinu.&lt;/li&gt;
   &lt;li&gt;Brjótum upp sílóin í kringum þróun (dev) og rekstur (ops) og setjum af stað fókuserað umbótateymi þróunar og reksturs sem hefur það eina markmið að bæta vinnuumhverfi allra hinna.&lt;/li&gt;
-  &lt;li&gt;Gerum það hluta af vinnunni að viðhalda gæðum og borga niður tækniskuld, verjum t.d. 20% af þróunartímanum. Tækniskuldin þarf að vera í föstum afborgunum.&lt;/li&gt;
+  &lt;li&gt;Tækniskuldin þarf að vera í föstum afborgunum. Verjum t.d. 20% af þróunartímanum í að viðhalda gæðum og vinda ofan af tækniskuldinni.&lt;/li&gt;
   &lt;li&gt;“Go slow to go faster”. Fjárfesting í umbótum með vinnu fárra getur skilað sér margfalt í hraðari vinnu margra.&lt;/li&gt;
   &lt;li&gt;Kúplum roskna kerfið í sundur og færum einn feril í einu yfir í nýrra umhverfi. Beitum &lt;a href=&quot;https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt&quot;&gt;kyrkingaraðferðinni&lt;/a&gt; (e. strangler pattern) til að minnka áhættu við umbreytinguna.&lt;/li&gt;
   &lt;li&gt;Gerum starfsfólki kleift að verja tíma í lærdóm og hvetjum til tilrauna.&lt;/li&gt;
