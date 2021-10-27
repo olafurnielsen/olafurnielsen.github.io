@@ -37,11 +37,22 @@
     
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@500&family=Roboto+Slab&family=Roboto:ital,wght@0,300;0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
 
+    <meta name="description" content="{{ page.description | escape || page.tag | escape }}">
+
   <style>
     {% capture include_to_scssify %}
       {% include inline.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PB4Y1GW7PP"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-PB4Y1GW7PP');
+  </script>
 
 </head>
