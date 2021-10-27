@@ -28,14 +28,19 @@ Algengt viðkvæði í þessu er að það sé svo stutt í að einu eða fleiri
 
 Við endum svo í kúltúrlegum spíral þar sem forverum er bölvað fyrir allar vondu ákvarðanirnar en enginn tekur ábyrgð og gerir eitthvað í vandamálinu.
 
-Svo endar með því að einhver stjórnandinn rífur upp tékkaheftið og setur í gang sársaukafulla big-bang innleiðingu á nýju kerfi með loforði um að öll vandamálin heyri sögunni til. Verkefnin lenda svo í tímaþröng og menn enda á að moka vandamálunum með sér inn í nýja kerfið og sagan endurtekur sig.
+Svo endar með því að einhver rífur upp tékkaheftið og setur í gang sársaukafulla stórahvells innleiðingu á nýju kerfi með loforði um að öll vandamálin heyri sögunni til. Verkefnin lenda svo í tímaþröng og við endum á að moka vandamálunum með okkur í nýja kerfið og sagan endurtekur sig.
+
+**Stórahvells innleiðing (e. big-bang deployment):**
+```text
+Að skipta kerfi út í heilu lagi í einu vetfangi og vona það besta.
+```
 
 ## Ný nálgun í stjórnun
 
-Lausnin við að tækla hin rosknu kerfi er að hætta big-bang nálgun og tækla vandamálið í anda stjórnunar- og tækniaðferða sem kenndar eru við DevOps hugmyndafræðina:
+Lausnin við að tækla hin rosknu kerfi er tækla vandamálið í anda stjórnunar- og tækniaðferða sem kenndar eru við DevOps hugmyndafræðina:
 - Hefjumst handa strax við að gera tækniumhverfið aðeins betra í dag en það var í gær án þess að kollvarpa neinu.
 - Brjótum upp sílóin í kringum þróun (dev) og rekstur (ops) og setjum af stað fókuserað umbótateymi þróunar og reksturs sem hefur það eina markmið að bæta vinnuumhverfi allra hinna.
-- Gerum það hluta af vinnunni að viðhalda gæðum og borga niður tækniskuld, verjum t.d. 20% af þróunartímanum. Tækniskuldin þarf að vera í föstum afborgunum.
+- Tækniskuldin þarf að vera í föstum afborgunum. Verjum t.d. 20% af þróunartímanum í að viðhalda gæðum og vinda ofan af tækniskuldinni.
 - "Go slow to go faster". Fjárfesting í umbótum með vinnu fárra getur skilað sér margfalt í hraðari vinnu margra.
 - Kúplum roskna kerfið í sundur og færum einn feril í einu yfir í nýrra umhverfi. Beitum [kyrkingaraðferðinni](https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt) (e. strangler pattern) til að minnka áhættu við umbreytinguna.
 - Gerum starfsfólki kleift að verja tíma í lærdóm og hvetjum til tilrauna.
