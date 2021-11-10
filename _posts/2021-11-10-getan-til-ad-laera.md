@@ -8,6 +8,8 @@ tags:
     - hiring
 ---
 
+![](https://s3.eu-west-1.amazonaws.com/olafur.org/learning.jpg)
+
 Ég verð reglulega vitni að því að við ofmetum hversu mikið mál það er fyrir starfsfólk að tileinka sér nýja færni eða setja sig inn í flókin mál sem það hefur enga fyrri reynslu af. Virðismat á sérhæfðri þekkingu er of hátt á kostnað þess virðis sem fólgið er í getunni til að læra.
 
 Í upplýsingatækni birtist þetta til dæmis þannig að fyrirtæki þora ekki að gera starfsmannabreytingar eða skipta um þjónustuaðila því þar sé svo mikil sértæk þekking á tilteknu kerfi. Mín reynsla er að þegar á hólminn er komið er klárt fólk undantekningalaust fljótt að setja sig inn í tækni sem það hafði aldrei snert á áður.
